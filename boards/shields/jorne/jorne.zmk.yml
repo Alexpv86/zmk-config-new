@@ -11,5 +11,6 @@ features:
   - underglow
   - studio
 siblings:
+  - jorne_dongle
   - jorne_left
   - jorne_right
