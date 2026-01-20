@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#import "jorne-layouts.dtsi"
+#include "jorne-layouts.dtsi"
 
 &joric_jorne_full_layout {
     transform = <&jorne_transform>;
