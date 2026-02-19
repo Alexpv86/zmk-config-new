@@ -24,12 +24,6 @@ config BT_MAX_CONN
 config BT_MAX_PAIRED
     default 7
 
-config MCUMGR_CMD_IMG_MGMT
-    default y
-
-config MCUMGR_CMD_OS_MGMT
-    default y
-
 endif
 
 if SHIELD_JORNE_LEFT || SHIELD_JORNE_RIGHT
